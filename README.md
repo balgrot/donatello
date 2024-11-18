@@ -12,6 +12,11 @@ Create a python virtual environment
     source myenv/bin/activate
 ```
 
+Create a Django super user
+```bash
+    python manage.py createsuperuser
+```
+
 Run your project
 ```bash
     python manage.py runserver
