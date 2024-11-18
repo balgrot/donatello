@@ -1,6 +1,6 @@
 # Project Donatello
 
-Really simple project to handle Zoho's OAuth token persistance.
+Really simple project to handle Zoho's OAuth token persistence.
 
 
 ## Installation
