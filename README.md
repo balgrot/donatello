@@ -2,6 +2,13 @@
 
 Really simple project to handle Zoho's OAuth token persistence.
 
+## Requirements
+Django and Django REST Framework
+
+``` bash
+    pip install Django
+    pip install djangorestframework
+```
 
 ## Installation
 
